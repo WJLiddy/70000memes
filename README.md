@@ -1,7 +1,7 @@
 # 70000memes
 
 
-70,000 memes. 
+A little over 70,000 memes. 
 
 
 All of the memes are from Imgur. 
