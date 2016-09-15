@@ -11,6 +11,7 @@ They were collected using some unholy combination of imgurpython and a web scrap
 
 
 Each meme is formatted:
+
 MEME NAME
 
 TOP TEXT
